@@ -1,4 +1,6 @@
 module.exports = {
+  pathPrefix: "/Wlog",
+  
   siteMetadata: {
     title: `Bowen Wang`,
     description: `Bowen Wang's Personal Website`,
