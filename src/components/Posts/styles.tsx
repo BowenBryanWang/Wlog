@@ -2,11 +2,11 @@ import styled from 'styled-components';
 import tw from 'tailwind.macro';
 
 export const Posts = styled.div`
-  ${tw`w-full flex flex-wrap`};
+  ${tw`w-full flex flex-wrap font-serif`};
 `;
 
 export const Post = styled.div`
-  ${tw`w-full sm:w-1/2 p-3`};
+  ${tw`w-full sm:w-1/2 p-3 font-serif`};
 `;
 
 export const Card = styled.div`
@@ -14,7 +14,7 @@ export const Card = styled.div`
 `;
 
 export const Content = styled.div`
-  ${tw`p-4 text-indigo-900`};
+  ${tw`p-4 text-indigo-900 font-serif`};
 `;
 
 export const Image = styled.figure`

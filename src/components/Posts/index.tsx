@@ -8,7 +8,7 @@ import Container from 'components/ui/Container';
 import TitleSection from 'components/ui/TitleSection';
 
 import { SectionTitle, ImageSharpFluid } from 'helpers/definitions';
-
+import "katex/dist/katex.min.css"
 import * as Styled from './styles';
 
 interface Post {

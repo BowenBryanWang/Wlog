@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/Wlog",
   siteMetadata: {
     title: `Bowen Wang`,
     description: `Bowen Wang's Personal Website`,
@@ -22,16 +23,34 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: `gatsby-transformer-remark`,
       options: {
+        gfm: true,
+        plugins: [
+          {
+            resolve: `gatsby-remark-katex`,
+            options: {
+              // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
+              strict: `ignore`
+            }
+          }
+        ],
+      },
+    },
+    {
+      resolve: 'gatsby-transformer-remark',
+
+      options: {
+        gfm: true,
         plugins: [
           {
             resolve: 'gatsby-remark-images',
+            
             options: {
               maxWidth: 768,
               linkImagesToOriginal: false
             }
-          }
+          },
         ]
       }
     },

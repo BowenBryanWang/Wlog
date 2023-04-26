@@ -6,4 +6,5 @@ startDate: 'Oct 2020'
 endDate: 'Jul 2024'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Undergraduate student in the Department of Computer Science and Technology, Tsinghua University.
+Majoring in Human-Computer Interaction, with interests in Computer Vision, Natural Language Processing, and Human-Computer Interaction Design.

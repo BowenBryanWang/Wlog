@@ -10,6 +10,8 @@ import FormatHtml from 'components/utils/FormatHtml';
 
 import * as Styled from './styles';
 
+import "katex/dist/katex.min.css"
+
 interface Post {
   html: React.ReactNode;
   fields: {
