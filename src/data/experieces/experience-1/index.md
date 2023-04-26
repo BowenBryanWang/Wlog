@@ -1,9 +1,13 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'IWMUT 2022'
+position: '3rd Author'
+startDate: 'July 2021'
+endDate: 'October 2022'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+**Interaction Proxy Manager: Semantic Model Generation and Run-time Support for Reconstructing Ubiquitous User Interfaces of Mobile Services**
+
+- Synchronizing and managing the original apps’ interface, and providing a concise programming interface that exposes information and method entries of the concerned mobile services.
+
+- Still under review, manuscript expected to be submitted in May 2023.

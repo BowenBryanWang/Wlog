@@ -2,5 +2,5 @@
 category: 'services'
 title: 'Graphic Design'
 icon: 'draw-polygon'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Have experience in front -end engineer experience, designing front -end pages for search engines, LANDING pages for project product design. Professional development framework for mainstream front -end development of Vue, HTML+CSS+JS'
 ---

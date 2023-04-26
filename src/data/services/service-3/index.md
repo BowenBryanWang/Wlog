@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Copywrite'
+title: 'Academic Research'
 icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Working in the Tsinghua University Human -Play Interactive Laboratory, participate in the experiment, writing, innovation and other links. Two submissions to the HCI in the field of HCI as the first author and the third author, have rich scientific research experience.'
 ---

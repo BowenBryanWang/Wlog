@@ -1,11 +1,13 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+company: 'Tsinghua Challenge-Cup'
+position: '2nd Prize'
+startDate: 'Jan 2023'
+endDate: 'May 2023'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**AI-UI Interaction for Supporting Out-of-Vocabulary Intent Understanding and Execution in Open-domain Task Assistants**
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-Proposes an application-independent GUI task assistant capable of executing arbitrary unseen intentions.
+
+-Participation in Tsinghua University Challenge-Cup Competition 2023 and won the 2nd Prize.
