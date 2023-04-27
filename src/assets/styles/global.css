@@ -1,5 +1,9 @@
 /* purgecss start ignore */
 @import 'tailwindcss/base';
+/* 设置base里面svg样式的display属性为inline */
+svg {
+  display: inline;
+}
 @import 'tailwindcss/components';
 /* purgecss end ignore */
 
