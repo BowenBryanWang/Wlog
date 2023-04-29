@@ -17,5 +17,6 @@ export const colors: ObjectType = {
   gray600: '#718096',
   gray700: '#4A5568',
   gray800: '#2D3748',
-  gray900: '#1A202C'
+  gray900: '#1A202C',
+  
 };

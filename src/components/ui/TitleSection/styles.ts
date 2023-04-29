@@ -6,16 +6,16 @@ export interface StyledProps {
 }
 
 export const TitleSection = styled.div`
-  ${tw`flex flex-col w-full`};
+  ${tw`flex flex-col w-full `};
 `;
 
 export const Title = styled.h2<StyledProps>`
-  ${tw`mb-4 text-4xl font-bold w-full text-left`};
+  ${tw`mb-4 text-5xl font-bold w-full text-left`};
   ${({ center }) => center && tw`text-center`};
 `;
 
 export const SubTitle = styled.h4<StyledProps>`
-  ${tw`text-2xl text-indigo-600 w-full text-left`};
+  ${tw`text-3xl text-indigo-600 w-full text-left`};
   ${({ center }) => center && tw`text-center`};
 `;
 

@@ -1,11 +1,15 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
+
+
+import * as Styled from './styles';
+
 
 interface Props {
   content: any;
 }
 
 const FormatHtml: React.FC<Props> = ({ content }) => (
-  <div
+  <Styled.HTmL
     dangerouslySetInnerHTML={{
       __html: content
     }}
